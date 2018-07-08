@@ -161,6 +161,7 @@ public class StashRepository {
                     pullRequest.getTitle(),
                     pullRequest.getFromRef().getLatestCommit(),
                     pullRequest.getToRef().getLatestCommit(),
+                    pullRequest.getDescription(),
                     commentId,
                     pullRequest.getVersion(),
                     additionalParameters);

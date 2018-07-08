@@ -20,6 +20,7 @@ public class StashAditionalParameterEnvironmentContributor extends EnvironmentCo
                     "destinationRepositoryName",
                     "pullRequestTitle",
                     "sourceCommitHash",
+                    "requestDescription",
                     "destinationCommitHash"));
 
     @Override
