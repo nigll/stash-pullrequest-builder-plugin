@@ -28,7 +28,7 @@ The plugin makes available to the job the following parameter variables:
 - `${destinationRepositoryName}`
 - `${sourceCommitHash}`
 - `${destinationCommitHash}`
-
+- `${requestDescription}`
 ## Creating a Job
 
 **Source Code Management**
